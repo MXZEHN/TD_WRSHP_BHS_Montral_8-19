@@ -4,7 +4,7 @@
 Why the Bauhaus would have loved TouchDesigner
 
 
-<IMG SRC="mx_bauhaus.jpg" NAME="Grafik1" ALIGN=LEFT WIDTH=643 HEIGHT=361 BORDER=0>
+<IMG SRC="images/mx_bauhaus.jpg" NAME="Grafik1" ALIGN=LEFT WIDTH=643 HEIGHT=361 BORDER=0>
 
 When Walter Gropius founded the legendary design school Bauhaus one hundred years ago in the German town of Weimar, the world had been turned upside down. Industrialization had severely changed people's everyday lives and WWI had shown the brutal potential of these new technologies. At this time, design and architecture had been struggling to find a new language that was appropriate for these radically changing means of production. In this fragile situation the architect Walter Gropius managed to gather some of the finest artists and designers of his era and founded a new school where art and design were taught in a completely new way.
 
