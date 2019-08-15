@@ -13,3 +13,5 @@ How could the Bauhaus achieve this? With the Bauhaus Manifesto, Gropius took ins
 One hundred years later, we find ourselves in a similar situation. New technologies demand new design solutions yet specialization will not necessarily lead us down the right path. Much like the Bauhaus dreamed of art, life, and craft as a holistic gesamtkunstwerk (total work of art), working with TouchDesigner allows us to integrate all art displicines into one experience that permeates both the real and the virtual.
 
 In this workshop participants will learn to make first steps in TouchDesigner and at the same time get to know some of the iconic works of the Bauhaus. These will be used as inspiration for practical exercises in the program.
+
+Learn more about the Bauhaus here: <A HREF="https://www.bauhaus100.com/the-bauhaus" NAME="Learn more about the Bauhaus" TARGET="_blank">https://www.bauhaus100.com/the-bauhaus</A>
